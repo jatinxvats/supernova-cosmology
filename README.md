@@ -77,7 +77,7 @@ The residuals are randomly distributed around zero with no significant systemati
 * Pantheon+SH0ES dataset
 * Hubble diagram visualization
 * Residual analysis visualization
-* Project report
+* Detailed project report (Summer_Project_Report.pdf)
 
 ## Future Work
 
