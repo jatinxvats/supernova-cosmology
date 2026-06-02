@@ -1,4 +1,4 @@
-# Supernova Cosmology using Type Ia Supernovae
+# Measuring Cosmological Parameters Using Type Ia Supernovae
 
 Estimating cosmological parameters using observational Type Ia supernova data.
 
