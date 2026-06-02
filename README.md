@@ -1,2 +1,11 @@
-# supernova-cosmology
-Estimating cosmological parameters using Type Ia supernova data from the Pantheon+SH0ES dataset.
+# Supernova Cosmology using Type Ia Supernovae
+
+Estimating cosmological parameters using observational Type Ia supernova data.
+
+## Hubble Diagram
+
+![Hubble Diagram](hubble_diagram.jpg)
+
+## Residual Analysis
+
+![Residual Plot](residual_plot.jpg)
