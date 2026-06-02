@@ -2,10 +2,14 @@
 
 Estimating cosmological parameters using observational Type Ia supernova data.
 
-## Hubble Diagram
+<h2>Hubble Diagram</h2>
 
-![Hubble Diagram](hubble_diagram.jpg)
+<p align="center">
+  <img src="hubble_diagram.jpg" width="700">
+</p>
 
-## Residual Analysis
+<h2>Residual Analysis</h2>
 
-![Residual Plot](residual_plot.jpg)
+<p align="center">
+  <img src="residual_plot.jpg" width="700">
+</p>
