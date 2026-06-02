@@ -79,6 +79,12 @@ The residuals are randomly distributed around zero with no significant systemati
 * Residual analysis visualization
 * Detailed project report (Summer_Project_Report.pdf)
 
+## Project Report
+
+The complete internship report can be found in:
+
+`Summer_Project_Report.pdf`
+
 ## Future Work
 
 * Incorporate additional cosmological datasets
